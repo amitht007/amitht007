@@ -1,4 +1,4 @@
-## Hi, I am Amit 👋.
+## Hi, I am Amit 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Analyst+at+Your+Service!)](https://git.io/typing-svg)
 <br>
