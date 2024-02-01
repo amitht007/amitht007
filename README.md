@@ -1,4 +1,5 @@
 ### Hi, I am Amit 👋.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Analyst+At+Your+Service)](https://git.io/typing-svg)
 I am a data analyst and a coder. I love to play with data and build/create different new stuff.
 
 ![GITHUB](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=GITHUB&logoColor=white)
