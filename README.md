@@ -12,11 +12,11 @@ I am a **data analyst** and a **coder**. I love to play with data and build/crea
 - Visualization: MS Excel, MS Power BI
 
 ## 🔗 Links
-[![gitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/amitht007)
-[![linkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/amitht007/)
-[![x](https://img.shields.io/badge/X-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://twitter.com/knightHeadHouse)
-[![youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/channel/UCsuoBLpprodunLxwgHHJTcA)
-[![gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=ko-fi&logoColor=white)](www.amitht007@gmail.com)
+[![gitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitht007)
+[![linkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitht007/)
+[![x](https://img.shields.io/badge/X-000?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/knightHeadHouse)
+[![youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsuoBLpprodunLxwgHHJTcA)
+[![gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](www.amitht007@gmail.com)
 
 
 
