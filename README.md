@@ -2,6 +2,8 @@
 I am a data analyst and a coder. I love to play with data and build/create different new stuff.
 
 ![GITHUB](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=GITHUB&logoColor=white)
+![YOUTUBE](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=YOUTUBE&logoColor=white)
+![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)
 
 
 <!--
