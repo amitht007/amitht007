@@ -4,8 +4,7 @@ I am a data analyst and a coder. I love to play with data and build/create diffe
 ![GITHUB](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=GITHUB&logoColor=white)
 ![YOUTUBE](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=YOUTUBE&logoColor=white)
 ![GMAIL](https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=GMAIL&logoColor=white)
-![LINKEDIN](https://img.shields.io/badge/LINKEDIN-BLUE?style=for-the-badge&logo=LINKEDIN&logoColor=white)
-
+![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=LINKEDIN&logoColor=white)
 ![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)
 
 
