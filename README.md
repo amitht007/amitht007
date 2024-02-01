@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I am Amit 👋.
+I am a data analyst and a coder. I love to play with data and build/create different stuff.
 <!--
 **amitht007/amitht007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
