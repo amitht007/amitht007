@@ -15,7 +15,7 @@ Data Analysis Projects that I have worked on yet. [Here.](https://github.com/ami
 
 
 ### 🛠 Skills
-- TOOLS: MS Excel, VS Code, Intellij Idea 
+- Tools: MS Excel, VS Code, Intellij Idea 
 - Language: SQL, Python
 - Database: PostgreSQL, MySQL
 - Visualization: MS Excel, MS Power BI
