@@ -1,6 +1,6 @@
 ## Hi, I am Amit 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Analyst+at+Your+Service!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Analyst+at+Your+Service!)](https://github.com/amitht007)
 <br>
 I'm a Data Analyst and a Coder with proficiency in data analysis and reporting, query optimization, database design, and data modeling. 
 I love to play with data and build/create new stuff. 
